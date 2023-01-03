@@ -1,0 +1,16 @@
+current directory: /Users/inokotaro/VScode/pf_shibuns/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/inokotaro/.rbenv/versions/3.1.3/bin/ruby -I /Users/inokotaro/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/inokotaro/VScode/pf_shibuns/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230103-1337-xi6yxv sitelibdir\=./.gem.20230103-1337-xi6yxv clean
+
+current directory: /Users/inokotaro/VScode/pf_shibuns/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230103-1337-xi6yxv sitelibdir\=./.gem.20230103-1337-xi6yxv
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/inokotaro/VScode/pf_shibuns/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230103-1337-xi6yxv sitelibdir\=./.gem.20230103-1337-xi6yxv install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230103-1337-xi6yxv
